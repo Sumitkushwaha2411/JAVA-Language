@@ -11,4 +11,4 @@ import java.util.Scanner;
             System.out.println("enter the student id :" + a);
             System.out.println("enter the student name :" + b);
         }
-    }
+    } 
